@@ -87,7 +87,7 @@
     "rollup-plugin-visualizer": "^5.9.0",
     "sade": "^1.7.4",
     "sass": "^1.43.4",
-    "semver": "^7.3.5",
+    "semver": "^7.5.2",
     "ts-jest": "^28.0.5",
     "ts-morph": "^14.0.0",
     "url-toolkit": "2.1.6",
